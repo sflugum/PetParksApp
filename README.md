@@ -60,7 +60,7 @@ PetParksApp is a backend Java application designed to manage pet-friendly park d
 ##▶️ Getting Started
 
 1. Clone the repository
-    - git clone https://github.com/yourusername/PetParksApp.git
+    - git clone https://github.com/sflugum/PetParksApp.git
     - cd PetParksApp
     
 2. Run the application
